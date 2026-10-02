@@ -1,13 +1,7 @@
-# Welcome To Your First (maybe) Python File!!
-
-# This one is going to be fairly simple, so don't fret
-
-# Below this line is going to be a "print" function
-print("Hello, World!")
-
-# Right Click in this Window, and click "Run Hello_World.py"
-# Then Look down to the bottom to see what happens!
-
-# After your first run, try it out for yourself!
-
-# YOUR CODE HERE #
+import numpy
+a =2 
+b =4
+c = 6
+d = 8
+somearrayname = numpy.array([[a,b] ,[c,d]])
+print(somearrayname)
